@@ -1,13 +1,23 @@
-namespace RPGCsharp.Properties
+using System.Data;
+
+namespace RPGCsharp.Scripts
 {
     public class Player
     {
         public int Hp;
-        void CreatePlayer(int hp)
-        {
-            int[] player = {hp,};
-        }
+        public int Dmg;
+        public int[] weapon;
         
+        void CreatePlayer(int hp, int dmg)
+        {
+            Hp = hp;
+            Dmg = dmg;
+        }
+
+        bool IsAlive()
+        {
+            return (Hp > 0);
+        }
         //créer le player
         //attaque
         //inventaire

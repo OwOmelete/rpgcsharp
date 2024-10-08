@@ -1,9 +1,21 @@
 using System;
 
-namespace RPGCsharp.Properties
+namespace RPGCsharp.Scripts
 {
     public class Game
     {
+        void StartGame()
+        {
+           
+            
+        }
+
+        void Explo()
+        {
+            Console.Write("Quelle est votre action ? (Inventaire, )");
+        }
+        
+        //création de joueur
         //demande d'action
         public class actions
         {
@@ -16,5 +28,8 @@ namespace RPGCsharp.Properties
         
         
         //gestion de tour par tour
+
+        //Console.Write("Quel est votre nom?");
+        //string Name = Console.ReadLine();
     }
 }

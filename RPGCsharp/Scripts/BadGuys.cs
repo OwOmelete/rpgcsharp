@@ -1,4 +1,4 @@
-namespace RPGCsharp.Properties
+namespace RPGCsharp.Scripts
 {
     public class BadGuys
     {
