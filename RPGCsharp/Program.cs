@@ -7,12 +7,18 @@ namespace RPGCsharp.Scripts
     {
         public static void Main(string[] args)
         {
+                
+            Intro introductionBLABLA = new Intro();
+            
+                
+            Player player = new Player(introductionBLABLA.Txtintro());
+            
             Actions startingactions = new Actions();
             startingactions.startmenu();
             
             Console.Clear();
             
-            startingactions.exploration();
+            startingactions.exploration(player.name);
 
         }
         /*

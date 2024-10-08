@@ -11,14 +11,7 @@ namespace RPGCsharp.Scripts
 
                 if (choice == 1)
                 {
-                    /*
-                    Intro introVar = new Intro()
-                        introVar.intro();
-
-                    Console.Clear();
-                    Console.WriteLine(Intro);
-                    */
-                    
+                    //go to exloration menu
                 }
 
                 if (choice == 2)
@@ -33,10 +26,10 @@ namespace RPGCsharp.Scripts
                 
             }
             
-            public void exploration()
+            public void exploration(string name)
             {
                 Console.Clear();
-                Console.WriteLine("Where do you want to go ? 1-Dungeon 2-Shop 3-Open inventory");
+                Console.WriteLine("Where do you want to go? 1-Dungeon 2-Shop 3-Open inventory");
                 int explorationChoice = int.Parse(Console.ReadLine());
 
                 if (explorationChoice == 1)
@@ -48,7 +41,7 @@ namespace RPGCsharp.Scripts
                 if (explorationChoice == 2)
                 {
                     //go to the shop
-                    Console.WriteLine("Welcome to the shop of nothingness");
+                    Console.WriteLine("Welcome " + name + " to the shop of nothingness");
                 }
 
                 if (explorationChoice == 3)

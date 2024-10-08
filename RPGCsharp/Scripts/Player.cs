@@ -1,3 +1,4 @@
+using System;
 using System.Data;
 
 namespace RPGCsharp.Scripts
@@ -7,6 +8,12 @@ namespace RPGCsharp.Scripts
         public int Hp;
         public int Dmg;
         public int[] weapon;
+        public string name;
+
+        public Player(string name)
+        {
+            this.name = name;
+        }
         
         void CreatePlayer(int hp, int dmg)
         {
@@ -24,4 +31,6 @@ namespace RPGCsharp.Scripts
         //utiliser objet
         //mourir
     }
+    
+    
 }

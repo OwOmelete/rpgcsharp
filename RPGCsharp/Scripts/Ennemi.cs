@@ -7,32 +7,32 @@ namespace RPGCsharp.Properties
     public class Ennemy
     {/*
         // create
-        if(//hero goes in a room)
+        if(hero goes in a room)
         {
-            //random number of ennemy and random difficultie spawn
+            random number of ennemy and random difficultie spawn
         }
         
         // atk
         if(mob turn = true)
         {
-            // heroHP -= mobATK
+             heroHP -= mobATK
         }
         
         // mob death
-        if(// sword damage >= mob Hp)
+        if( sword damage >= mob Hp)
         {
-            // mob die
+             mob die
         }
         else
         {
-            // mobHP -= sword damage;
+             mobHP -= sword damage;
         }    
         
         // loot
-        if (// mob die)
+        if ( mob die)
         {
-            // drop gold coin between 1 to 10 
-            // drop ???
+             drop gold coin between 1 to 10 
+             drop???
         }
      */
     }
