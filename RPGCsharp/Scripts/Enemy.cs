@@ -2,9 +2,7 @@ using System;
 using System.Diagnostics.Eventing.Reader;
 using System.Security.Cryptography;
 
-namespace RPGCsharp.Properties
-{
-    public class Ennemy
+namespace RPGCsharp.Propertnemy
     {/*
         // create
         if(hero goes in a room)
