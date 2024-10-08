@@ -4,12 +4,12 @@ using System.Security.Cryptography;
 
 namespace RPGCsharp.Properties
 {
-    public class Ennemi
+    public class Ennemy
     {/*
         // create
         if(//hero goes in a room)
         {
-            //random number of ennemie and random difficultie spawn
+            //random number of ennemy and random difficultie spawn
         }
         
         // atk

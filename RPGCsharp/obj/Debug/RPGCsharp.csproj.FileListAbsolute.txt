@@ -4,3 +4,9 @@ C:\Users\n.levy\Work\Rider\RPGCsharp\RPGCsharp\bin\Debug\RPGCsharp.exe
 C:\Users\n.levy\Work\Rider\RPGCsharp\RPGCsharp\bin\Debug\RPGCsharp.pdb
 C:\Users\n.levy\Work\Rider\RPGCsharp\RPGCsharp\obj\Debug\RPGCsharp.exe
 C:\Users\n.levy\Work\Rider\RPGCsharp\RPGCsharp\obj\Debug\RPGCsharp.pdb
+C:\Work\rpgcsharp\RPGCsharp\bin\Debug\RPGCsharp.exe
+C:\Work\rpgcsharp\RPGCsharp\bin\Debug\RPGCsharp.pdb
+C:\Work\rpgcsharp\RPGCsharp\obj\Debug\RPGCsharp.csproj.AssemblyReference.cache
+C:\Work\rpgcsharp\RPGCsharp\obj\Debug\RPGCsharp.csproj.CoreCompileInputs.cache
+C:\Work\rpgcsharp\RPGCsharp\obj\Debug\RPGCsharp.exe
+C:\Work\rpgcsharp\RPGCsharp\obj\Debug\RPGCsharp.pdb
