@@ -6,18 +6,19 @@ namespace RPGCsharp.Properties
 {
     public class Ennemi
     {/*
-        // créer
+        // create
         if(//hero goes in a room)
         {
             //random number of ennemie and random difficultie spawn
         }
         
-        // attaquer
+        // atk
         if(mob turn = true)
         {
             // heroHP -= mobATK
         }
-        // mourrir
+        
+        // mob death
         if(// sword damage >= mob Hp)
         {
             // mob die

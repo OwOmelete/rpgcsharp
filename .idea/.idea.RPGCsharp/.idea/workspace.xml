@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56fe0e1d-467b-437f-9cb7-2d60ae7ecb10" name="Changes" comment="" />
+    <list default="true" id="56fe0e1d-467b-437f-9cb7-2d60ae7ecb10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RPGCsharp/Intro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPGCsharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPGCsharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGCsharp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RPGCsharp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGCsharp/RPGCsharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RPGCsharp/RPGCsharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGCsharp/Scripts/Ennemi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RPGCsharp/Scripts/Ennemi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGCsharp/Scripts/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RPGCsharp/Scripts/Game.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "BranchDeCorentin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
